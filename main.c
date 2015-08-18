@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include"calculadora.h"
+#include"calcu.h"
 int main (void)
 {
 return 0;
